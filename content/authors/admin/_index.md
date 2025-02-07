@@ -49,7 +49,7 @@ With a background in **finance, venture capital, and M&A**, I specialize in **fu
 
 I’m passionate about sustainable business models, financial efficiency, and supporting mission-driven founders. Outside of work, I enjoy traveling, exploring investment trends, and reading about business strategy.  
 
-<center>  
+<center>
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/saksham.pdf" "newtab" >}}Download my CV{{< /staticref >}}  
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> [Download my CV]({{< content "cv/saksham.pdf" >}})
 </center>
