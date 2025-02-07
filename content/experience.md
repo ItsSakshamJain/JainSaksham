@@ -2,6 +2,7 @@
 date: "2023-10-24"
 design:
   spacing: 5rem
+  area: Venture Capital
 sections:
 - block: resume-experience
   content:
