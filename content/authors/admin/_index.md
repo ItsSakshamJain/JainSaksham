@@ -51,5 +51,5 @@ I’m passionate about sustainable business models, financial efficiency, and su
 
 <center>
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> [Download my CV]({{< content "cv/saksham.pdf" >}})
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> [Download my CV](/cv/saksham.pdf)
 </center>
